@@ -6,4 +6,4 @@
 
 **效果**
 
-![demo](./gif/demo.gif)
+![demo](https://github.com/jerryhumor/MapSignDemo/blob/master/gif/demo.gif)
